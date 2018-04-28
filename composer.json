@@ -1,0 +1,14 @@
+{
+  "autoload":{
+  	"psr-4": {
+  		"Wpa28\\": "wpa28/src/"
+  	},
+    "classmap":[
+      "wpa28/provider"
+    ],
+    "files": [
+      "wpa28/haper.php",
+      "wpa28/test.php"
+    ]
+  }
+}
